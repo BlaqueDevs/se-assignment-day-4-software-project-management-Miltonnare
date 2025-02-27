@@ -3,15 +3,25 @@
 It is Crucial because:
 
 •	Meets Business Goals & Market Demands since delays can result to missed opportunities and competitions.
+
 •	Ensures Customer Satisfaction through trust as users gain trust and get satisfied with the project
+
 •	It prevents project failure through cancellation due to delays.
+
 •	Results to competitive advantage through early adoption.
+
   How to ensure Deadlines are met:
+  
 •	Defining clear project scope and having clear goals
+
 •	One should create a realistic timeline to avoid delivering late projects.
+
 •	Resources should be allocated sufficiently
+
 •	Monitoring progress daily which enables one to identify early risks
+
 •	Implement agile methodologies which ensures frequent feedbacks
+
 
 2.How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
