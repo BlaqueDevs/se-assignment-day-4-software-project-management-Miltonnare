@@ -74,7 +74,7 @@ Use Waterfall when:
 •	Heavy documentation and regulatory compliance are required (e.g., government projects).
 
 5. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-6. 
+   
 Agile is ideal for projects that:
 
 ✔ Have changing requirements or evolving customer needs
@@ -186,9 +186,13 @@ ________________________________________
  Importance of Maintaining High QA Standards
  
 Prevents Costly Bugs – Fixing bugs post-release is 10x more expensive than in development.
+
 Enhances User Satisfaction – Poor quality leads to bad reviews and churn.
+
 Improves Security – QA helps prevent data breaches and cyber threats.
+
 Ensures Compliance – Many industries (e.g., finance, healthcare) require strict quality and security standards.
+
 Boosts Development Efficiency; Fewer bugs = faster releases and reduced maintenance costs.
 
 6.	How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
@@ -226,11 +230,16 @@ A detailed project schedule outlines tasks, deadlines, dependencies, and resourc
  Key Benefits:
  
 1.	Improves Time Management – Helps teams stay on track with deadlines.
-2.	Enhances Resource Allocation – Assigns the right people and tools at the right time.
-3.	Prevents Project Delays – Identifies bottlenecks and dependencies early.
-4.	Facilitates Better Communication – Keeps all stakeholders aligned on progress.
-5.	Improves Risk Management – Helps anticipate potential delays or issues.
-6.	Boosts Productivity & Efficiency – Organizes work for smoother execution.
+2.	
+3.	Enhances Resource Allocation – Assigns the right people and tools at the right time.
+4.	
+5.	Prevents Project Delays – Identifies bottlenecks and dependencies early.
+   
+7.	Facilitates Better Communication – Keeps all stakeholders aligned on progress.
+   
+9.	Improves Risk Management – Helps anticipate potential delays or issues.
+    
+11.	Boosts Productivity & Efficiency – Organizes work for smoother execution.
 ________________________________________
 How Gantt Charts Assist in Project Scheduling 
 
@@ -248,6 +257,7 @@ A Gantt chart is a visual project management tool that represents tasks, timelin
 If I were to build a system for managing Election, it would address the following issues.
 
 Lack of Transparency in Elections 
+
 •	Issue: Traditional voting systems may lack verifiable transparency, leading to disputes and distrust.
 •	Significance: Ensuring a fair, auditable, and tamper-proof voting process builds public trust in election outcomes.
 
@@ -279,7 +289,9 @@ ________________________________________
  Why These Issues Matter to Your Target Audience
  
 Election Commissions – Need a secure, efficient, and transparent system to conduct fair elections.
+
 Voters – Want a secure, accessible, and fraud-free voting experience.
+
  Government & Organizations – Need an auditable system to ensure compliance and reduce election costs.
  
 9. How can clearly defining the problem help in developing a more effective software solution?
@@ -331,13 +343,21 @@ With user-friendly features, secure authentication, and automated vote counting,
 User-Friendly & Scalable Design
 
 ✔ Intuitive UI/UX – Simplifies the process for all users.
+
 ✔ Scalable Infrastructure – Supports scalability when large data will be worked on .
+
 ✔ Role-Based Access Control – Assigns different permissions to voters, administrators, and auditors.
+
 Fast & Reliable Performance
+
 ✔ High Availability & Load Balancing – Prevents system crashes during peak  periods.
+
 ✔ Backup and Disaster Recovery – Ensures data is never lost.
+
 Accessibility & Convenience
-✔ Web and Mobile Compatibility – Enables voting from anywhere.
+
+✔ Web and Mobile Compatibility – Enables accessibility from anywhere.
+
 ✔ Support for Multiple Languages – Ensures inclusivity for diverse populations.
 
 14. What data is available regarding the market size and growth potential for your software?
